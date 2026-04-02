@@ -1,8 +1,8 @@
 <div align="center">
-	look at you... you found  
         <p align="center">
           <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
         </p>
+			look at you... you found  
 	
 <h1 align="center">The glitch in this fucking matrix.</h1>
 
