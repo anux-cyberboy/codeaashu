@@ -11,8 +11,10 @@ look at you... you found
 
 > I solve expensive problems for those who don’t care about the price.
 
-> I design attraction that put wow factor in every business/person.  
-> I build dominant software/products through obsession and creative creation.  
+> I design attraction that put wow factor in every business/person.
+  
+> I build dominant software/products through obsession and creative creation.
+
 > I sell water in the middle of the sea.
 
 >📍 The world is my country. India is my territory.
