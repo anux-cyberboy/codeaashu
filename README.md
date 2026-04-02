@@ -1,19 +1,19 @@
 <div align="center">
-look at you... you found  
-<h1 align="center">The glitch in this fucking matrix.</h1>
-</div>
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
+look at you... you found  
+<h1 align="center">The glitch in this fucking matrix.</h1>
+</div>
 
-### this is aashuu ✦ a polymath
-> Professionally, an Entrepreneur
+### This is aashuu ✦ a polymath
+Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
 
 > I design attraction that put wow factor in every business/person.
   
-> I build dominant software/products through obsession and creative creation.
+> I build dominant software/products through obsession and creative creation that will brutally dominate and create its own space in so many unfair and fucking ways.
 
 > I sell water in the middle of the sea.
 
