@@ -6,9 +6,9 @@ look at you... you found
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
 
-## hello explorer, this is aashuu ✦
+### hello explorer, this is aashuu ✦
 
-📍 **The world is my country.🌐 Bharat is my territory.🇮🇳**
+📍 **The world is my country. India is my territory.**
 
 <div align="center">
 <table>
