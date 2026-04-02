@@ -5,7 +5,13 @@
 			look at you... you found  
 	
 <h1 align="center">The glitch in this fucking matrix.</h1>
+</div>
 
+# hello explorer, this is aashuu ✦
+
+📍 **The world is my country.🌐 Bharat is my territory.🇮🇳**
+
+<div align="center">
 <table>
   <tr>
     <td valign="top">
