@@ -9,7 +9,8 @@ look at you... you found
 ### hello explorer, this is aashuu ✦
 
 >📍 The world is my country. India is my territory.
-##### Professionally, I’m an Entrepreneur, Engineer, and Designer on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet, with a mind full of obsession and creative creation.
+
+` Professionally, I’m an Entrepreneur, Engineer, and Designer on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet, with a mind full of obsession and creative creation.`
 
 <div align="center">
 <table>
