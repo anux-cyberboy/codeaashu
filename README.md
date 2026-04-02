@@ -6,7 +6,7 @@ look at you... you found
 <h1 align="center">The glitch in this fucking matrix.</h1>
 </div>
 
-### This is aashuu ✦ (polymath)
+### This is aashuu ✦ ᴘᴏʟʏᴍᴀᴛʜ
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
