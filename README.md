@@ -1,4 +1,7 @@
 <div align="center">
+        <p align="center">
+          <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
+        </p>
 	
 <h1 align="center">The glitch in your fucking matrix.</h1>
 
