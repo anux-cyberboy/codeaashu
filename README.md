@@ -6,7 +6,7 @@ look at you... you found
 <h1 align="center">The glitch in this fucking matrix.</h1>
 </div>
 
-### This is aashuu ✦ 𝘈 𝘗𝘰𝘭𝘺𝘮𝘢𝘵𝘩
+### This is aashuu ✦ 𝘗𝘰𝘭𝘺𝘮𝘢𝘵𝘩
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
@@ -15,9 +15,9 @@ Professionally, an Entrepreneur
   
 > I build dominant software/products through obsession and creative creation that will brutally dominate in so many unfair and fucking ways.
 
-> I sell water in the middle of the sea.
+> I sell urgency that creates a market to buy water in the middle of the sea.
 
->📍 The world is my country. India is my territory.
+📍 The world is my country. India is my territory.
 
 ` Professionally, I’m an Entrepreneur, Engineer, and Designer on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet, with a mind full of obsession and creative creation.`
 
