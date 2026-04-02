@@ -8,7 +8,7 @@ look at you... you found
 
 ### hello explorer, this is aashuu ✦
 
->📍 **The world is my country. India is my territory.**
+>📍 The world is my country. India is my territory.
 
 <div align="center">
 <table>
