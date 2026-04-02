@@ -13,7 +13,7 @@ Professionally, an Entrepreneur
 
 > I design attraction that put wow factor in every business/person.
   
-> I build dominant software/products through obsession and creative creation that will brutally dominate and create its own space in so many unfair and fucking ways.
+> I build dominant software/products through obsession and creative creation that will brutally dominate in so many unfair and fucking ways.
 
 > I sell water in the middle of the sea.
 
