@@ -22,7 +22,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ---
 
 
-### <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/repoxrayicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
+### <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
 
@@ -37,7 +37,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
-- <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> **[RepoXray - Dropping on 6 April](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Dropping on 6 April](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> **[VibeTunnel](https://avsar.devdisplay.org/)** - The Intelligence System for Modern Events.
 
 
