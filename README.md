@@ -6,7 +6,7 @@ look at you... you found
 <h1 align="center">The glitch in this fucking matrix.</h1>
 </div>
 
-### This is aashuu ✦ 𝘗𝘰𝘭𝘺𝘮𝘢𝘵𝘩
+### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
@@ -22,7 +22,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ---
 
 
-### <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
+### <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> Founder ✦ DevDisplay Ecosystem `(Platform ▪︎ Labs ▪︎ Community)`
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
 
