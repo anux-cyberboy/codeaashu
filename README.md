@@ -23,10 +23,11 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
   <img width="18" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
-  Founder   <img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
-</h2>
+  Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
+<!-- <img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
+</h2> -->
 
 <a href="https://github.com/devdisplay"><strong>Organization ✦ GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Organization ✦ Website</strong></a>
 
