@@ -29,7 +29,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 Create viral milestone cards & progress updates in seconds. 
 The specialized design tool for founders building in public. Turn revenue metrics, user growth and daily wins into scroll stopping visuals.
 
-> <a href="https://github.com/devdisplay"><strong>Organization ✦ GitHub</strong></a> <a href="https://www.devdisplay.org/"><strong>Organization ✦ Website</strong></a>
+<a href="https://github.com/devdisplay"><strong>Organization ✦ GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Organization ✦ Website</strong></a>
 
 15 Signups • 140 Exports
 
