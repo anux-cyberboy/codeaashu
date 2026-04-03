@@ -28,7 +28,7 @@ The First Global Platform for Developers to Fulfill All Their Tech Needs.
 <!-- <img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
 -->
 
-<a href="https://github.com/devdisplay"><strong>Organization ✦ GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Organization ✦ Website</strong></a>
+Organization ✦<a href="https://github.com/devdisplay"><strong>GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Website</strong></a>
 
 > 500+ Global Developers ▪︎ 17000+ Community Member
 
