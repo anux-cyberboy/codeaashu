@@ -13,11 +13,11 @@ Professionally, an Entrepreneur
 
 > I design attraction that put wow factor in every business/person.
   
-> I build dominant software/products through obsession and creative creation that will brutally dominate in so many unfair and fucking ways.
+> I build dominant software/products through obsession and creative creation.
 
 > I sell urgency that creates a market to buy water in the middle of the sea.
 
-> I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) - 32 delivered to clients, the rest are personal.
+I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) that will brutally dominate in so many unfair and fucking ways. (32 delivered to clients, the rest are personal.)
 
 ---
 
@@ -35,6 +35,10 @@ The specialized design tool for founders building in public. Turn revenue metric
 
 ---
 
+📍 The world is my country. India is my territory.
+💌 Only available for contract-based projects
+
+---
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
 
