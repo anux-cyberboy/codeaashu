@@ -23,15 +23,14 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
   <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
-  Founder   <img width="120" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
+  Founder   <img width="80" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
 </h2>
 
-Create viral milestone cards & progress updates in seconds. 
-The specialized design tool for founders building in public. Turn revenue metrics, user growth and daily wins into scroll stopping visuals.
+The First Global Platform for Developers to Fulfill All Their Tech Needs.
 
 <a href="https://github.com/devdisplay"><strong>Organization ✦ GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Organization ✦ Website</strong></a>
 
-15 Signups • 140 Exports
+> 500+ Global Developers ▪︎ 17000+ Community Member
 
 ---
 
