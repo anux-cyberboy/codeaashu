@@ -39,7 +39,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - soon](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - soon](#)** - The Intelligence System for Modern Events.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[enough aashuu](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before Proof of Work, study Proof of Failure. Backed by $258.4B Burned Capital
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/safenote.png" /> **[Safenote](https://www.safenote.me/)** - The safest workspace to store and share your private notes & messages!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/colortones.png" /> **[ColorTones](https://colortones.aashuu.tech/)** - The perceptual DNA of color. Transform colors into full palettes effortlessly.
