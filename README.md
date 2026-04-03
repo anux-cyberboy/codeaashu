@@ -23,7 +23,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
   <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
-  Founder 
+  Founder   <img width="24" height="24" alt="tryscribe" src="https://www.devdisplay.org/WordMark.png" />
 </h2>
 
 Create viral milestone cards & progress updates in seconds. 
