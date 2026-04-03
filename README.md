@@ -22,7 +22,7 @@ Professionally, an Entrepreneur
 ---
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
-  <img width="24" height="28" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/Newicon.png" />
+  <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
   Currently Building: <img width="150" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/DevDisplay.png" />
 </h2>
 
