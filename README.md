@@ -37,10 +37,19 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Dropping on 6 April](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[VibeTunnel](https://avsar.devdisplay.org/)** - The Intelligence System for Modern Events.
-
-
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - soon](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - soon](#)** - The Intelligence System for Modern Events.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Enough.webp" /> **[enough aashuu](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before Proof of Work, study Proof of Failure. Backed by $258.4B Burned Capital
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/safenote.png" /> **[Safenote](https://www.safenote.me/)** - The safest workspace to store and share your private notes & messages!
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/colortones.png" /> **[ColorTones](https://colortones.aashuu.tech/)** - The perceptual DNA of color. Transform colors into full palettes effortlessly.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/antriviewicon.png" /> **[Antriview](https://antriview.systems/)** - Your AI Interviewer That Prepares You Better Than Any Human Can.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/NextjsAPIDecorators.png" /> **[NextJS API Decorators](https://nextjs-api-decorators.vercel.app/)** - A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/CodingAura.png" /> **[Coding Aura](https://codingaura.vercel.app/)** - Flex Your Coding Journey on Social. :octocat: Generate. Download. Share.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/GitHubLegacy.png" /> **[GitHub Legacy](https://github-legacy.vercel.app/)** - Transform your GitHub journey into a professional resume in seconds!
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/gradiee.svg" /> **[Gradiee](https://gradiee.vercel.app/)** - open-source amazing gradient wallpaper generator.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/ResumeBuilder.png" /> **[Resume Builder](https://resume-builder-pro.vercel.app/)** - Create your Resume in minutes using ATS proof template!
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://helpmate-ai.vercel.app/)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
 
 ## Legacy Build
 
