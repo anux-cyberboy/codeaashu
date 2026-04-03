@@ -45,13 +45,16 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/colortones.png" /> **[ColorTones](https://colortones.aashuu.tech/)** - The perceptual DNA of color. Transform colors into full palettes effortlessly.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/antriviewicon.png" /> **[Antriview](https://antriview.systems/)** - Your AI Interviewer That Prepares You Better Than Any Human Can.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/NextjsAPIDecorators.png" /> **[NextJS API Decorators](https://nextjs-api-decorators.vercel.app/)** - A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/CodingAura.png" /> **[Coding Aura](https://codingaura.vercel.app/)** - Flex Your Coding Journey on Social. :octocat: Generate. Download. Share.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/CodingAura.png" /> **[Coding Aura](https://codingaura.vercel.app/)** - Flex Your Coding Journey on Social. Generate. Download. Share.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/GitHubLegacy.png" /> **[GitHub Legacy](https://github-legacy.vercel.app/)** - Transform your GitHub journey into a professional resume in seconds!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/gradiee.svg" /> **[Gradiee](https://gradiee.vercel.app/)** - open-source amazing gradient wallpaper generator.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/ResumeBuilder.png" /> **[Resume Builder](https://resume-builder-pro.vercel.app/)** - Create your Resume in minutes using ATS proof template!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://helpmate-ai.vercel.app/)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
 
 ## Legacy Build
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/LPS.png" /> **[LPS Brands](https://lps-me.com/)** - LPS is a New-Age 360° full-impact agency, building identities, communications & digital experiences for modern brands with measurable impact.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
 
 ---
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
