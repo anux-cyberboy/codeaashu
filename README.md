@@ -25,12 +25,13 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ### <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
-<!-- <img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
--->
 
-Organization ✦<a href="https://github.com/devdisplay"><strong>GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Website</strong></a>
+Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Website</strong></a>
 
 > 500+ Global Developers ▪︎ 17000+ Community Member
+
+<!-- <img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
+-->
 
 ---
 
