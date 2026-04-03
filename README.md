@@ -17,11 +17,23 @@ Professionally, an Entrepreneur
 
 > I sell urgency that creates a market to buy water in the middle of the sea.
 
-📍 The world is my country. India is my territory.
-
 > I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) - 32 delivered to clients, the rest are personal.
 
-> Only available for contract-based projects
+---
+
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/Newicon.png" />
+  Currently Building: <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/DDColorLOGO.png" />
+</h2>
+
+Create viral milestone cards & progress updates in seconds. 
+The specialized design tool for founders building in public. Turn revenue metrics, user growth and daily wins into scroll stopping visuals.
+
+> Built with **Next.js, Supabase, Docker, CI/CD Pipelines**.
+
+15 Signups • 140 Exports
+
+---
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
