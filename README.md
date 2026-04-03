@@ -40,7 +40,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - soon](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - soon](#)** - The Intelligence System for Modern Events.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[enough aashuu](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
-- <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before Proof of Work, study Proof of Failure. Backed by $258.4B Burned Capital
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before Proof of Work, study Proof of Failure. Backed by $258.4B Burned Capital
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/safenote.png" /> **[Safenote](https://www.safenote.me/)** - The safest workspace to store and share your private notes & messages!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/colortones.png" /> **[ColorTones](https://colortones.aashuu.tech/)** - The perceptual DNA of color. Transform colors into full palettes effortlessly.
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/antriviewicon.png" /> **[Antriview](https://antriview.systems/)** - Your AI Interviewer That Prepares You Better Than Any Human Can.
@@ -49,12 +49,12 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/GitHubLegacy.png" /> **[GitHub Legacy](https://github-legacy.vercel.app/)** - Transform your GitHub journey into a professional resume in seconds!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/gradiee.svg" /> **[Gradiee](https://gradiee.vercel.app/)** - open-source amazing gradient wallpaper generator.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/ResumeBuilder.png" /> **[Resume Builder](https://resume-builder-pro.vercel.app/)** - Create your Resume in minutes using ATS proof template!
-- <img width="18" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://helpmate-ai.vercel.app/)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://helpmate-ai.vercel.app/)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
 
 ## Legacy Build
 - <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/LPS.png" /> **[LPS Brands](https://lps-me.com/)** - LPS is a New-Age 360° full-impact agency, building identities, communications & digital experiences for modern brands with measurable impact.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
-- <img width="18" height="24" alt="tryscribe" src="./assets/Buildicon/Lightship.jpg" /> **[Lightship](https://lightshiprv.com/)** - Lightship is the first American all-electric recreational vehicle company bringing travel trailers into the electric age.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/Lightship.jpg" /> **[Lightship](https://lightshiprv.com/)** - Lightship is the first American all-electric recreational vehicle company bringing travel trailers into the electric age.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/MOQO.png" /> **[MOQO](https://moqo.be/)** - MOQO develops brands from a well-thought-out brand strategy, whether in terms of corporate branding, product branding or employer branding.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Lazarev.png" /> **[Lazarev](https://www.lazarev.agency/)** - Award-winning digital product design agency for AI-driven B2B platforms. $500M+ raised by clients through design-led growth.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Selemen.png" /> **[Selemen](https://selemen.liqium.com/)** - Selemen® provides a full range of services for interior decoration and construction solutions turnkey for residential and commercial construction.
