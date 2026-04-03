@@ -22,8 +22,8 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ---
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
-  <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
-  Founder   <img width="80" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
+  <img width="14" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
+  Founder   <img width="90" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
 </h2>
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
