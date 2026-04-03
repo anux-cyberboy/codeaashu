@@ -22,7 +22,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ---
 
 
-### <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> Founder ✦ DevDisplay Ecosystem `(Platform ▪︎ Labs ▪︎ Community)`
+### <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
 
@@ -30,13 +30,19 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 > 500+ Global Developers ▪︎ 17000+ Community Member
 
-<!-- <img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
+<!-- `<img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
 -->
 
 ---
 
-📍 The world is my country. India is my territory.
-💌 Only available for contract-based projects
+## Latest Build
+
+- <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> **[RepoXray - Dropping on 6 April](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
+- <img width="16" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" /> **[VibeTunnel](https://avsar.devdisplay.org/)** - The Intelligence System for Modern Events.
+
+
+
+## Legacy Build
 
 ---
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
