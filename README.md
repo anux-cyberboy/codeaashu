@@ -37,8 +37,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
-- <img width="18" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Dropping on 6 April](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
-- <img width="18" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[VibeTunnel](https://avsar.devdisplay.org/)** - The Intelligence System for Modern Events.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Dropping on 6 April](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[VibeTunnel](https://avsar.devdisplay.org/)** - The Intelligence System for Modern Events.
 
 
 
