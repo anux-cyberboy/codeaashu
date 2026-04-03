@@ -21,9 +21,9 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 
 ---
 
-<h2 style="display: flex; align-items: center; gap: 4px;">
+<h2 style="display: flex; align-items: center; gap: 8px;">
   <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" />
-  Currently Building: <img width="150" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/DevDisplay.png" />
+  Founder @DevDisplay <a href="https://www.devdisplay.org/"><strong>DevDisplay</strong></a>
 </h2>
 
 Create viral milestone cards & progress updates in seconds. 
