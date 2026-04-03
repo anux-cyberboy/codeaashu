@@ -22,7 +22,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ---
 
 
-### <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxrayicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
+### <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/repoxrayicon.png" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
 
