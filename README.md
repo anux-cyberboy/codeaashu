@@ -63,7 +63,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ---
 
 
-## <img src="assets/hi.gif" width="28"> Let's connect dear!
+## <img src="assets/hi.gif" width="38"> Let's connect dear!
 
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
