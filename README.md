@@ -23,7 +23,7 @@ Professionally, an Entrepreneur
 
 <h2 style="display: flex; align-items: center; gap: 8px;">
   <img width="24" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/Newicon.png" />
-  Currently Building: <img width="48" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/DevDisplay.png" />
+  Currently Building: <img width="160" height="24" alt="tryscribe" src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/DevDisplay.png" />
 </h2>
 
 Create viral milestone cards & progress updates in seconds. 
