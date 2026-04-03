@@ -52,9 +52,15 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://helpmate-ai.vercel.app/)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
 
 ## Legacy Build
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/LPS.png" /> **[LPS Brands](https://lps-me.com/)** - LPS is a New-Age 360° full-impact agency, building identities, communications & digital experiences for modern brands with measurable impact.
+- <img width="18" height="24" alt="tryscribe" src="./assets/Buildicon/LPS.png" /> **[LPS Brands](https://lps-me.com/)** - LPS is a New-Age 360° full-impact agency, building identities, communications & digital experiences for modern brands with measurable impact.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Lightship.jpg" /> **[Lightship](https://lightshiprv.com/)** - Lightship is the first American all-electric recreational vehicle company bringing travel trailers into the electric age.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/MOQO.png" /> **[MOQO](https://moqo.be/)** - MOQO develops brands from a well-thought-out brand strategy, whether in terms of corporate branding, product branding or employer branding.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Lazarev.png" /> **[Lazarev](https://www.lazarev.agency/)** - Award-winning digital product design agency for AI-driven B2B platforms. $500M+ raised by clients through design-led growth.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Selemen.png" /> **[Selemen](https://selemen.liqium.com/)** - Selemen® provides a full range of services for interior decoration and construction solutions turnkey for residential and commercial construction.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Rejouice.png" /> **[Rejouice](https://www.rejouice.com/)** - REJOUICE is venture firm and digital agency that transforming visions into brands. From strategy to execution, performance, and ongoing support.
+
+
 
 ---
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
