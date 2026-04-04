@@ -73,19 +73,17 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## Latest Banger Articles
+## Latest Banger Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />
 
-> ⚠️ The sharpest articles on the internet!Read at your own risk, this will rewire your mind with a banger. You won’t be the same after this.
+> ⚠️ The sharpest articles on the internet! Read at your own risk, this will rewire your mind with a banger. You won’t be the same after this.
 
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [There’s No Fucking Fear Once You Understand The Pattern.](https://medium.com/@warrioraashuu/theres-no-fucking-fear-once-you-understand-the-pattern-5f5513b2a5bb)
-- 🇮🇳 [The Future of AI Belongs to Bharat.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
-- ⚠️ [Don’t Turn 2026 Into Another Wasted Fucking Year.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
-- 💣 [The Big Lie About Your Fucking Competition](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
-- 🕵️ [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
-<!-- BLOG-POST-LIST:END -->
+- [There’s No Fucking Fear Once You Understand The Pattern.](https://medium.com/@warrioraashuu/theres-no-fucking-fear-once-you-understand-the-pattern-5f5513b2a5bb)
+- [The Future of AI Belongs to Bharat.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
+- [Don’t Turn 2026 Into Another Wasted Fucking Year.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
+- [The Big Lie About Your Fucking Competition](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
+- [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 
-👉 **Click → Read more bangers:**  
+ **Click <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Read more bangers:**  
 [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
 
 ---
