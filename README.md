@@ -71,13 +71,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://www.reddit.com/user/warrioraashuu/"> 
     <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
 </a>
-<a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
-    <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ashutoshkumaraashu/"> 
+    <img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"  alt="Linkedin"/>
 </a>
-<a href="https://www.linkedin.com/in/ashutoshkumaraashu/">
-  <img src="https://shields.io" title="LinkedIn" alt="LinkedIn"/>
-</a>
-
 <a href="https://peerlist.io/aashuu"> 
     <img src="https://img.shields.io/badge/Peerlist-00384d?style=for-the-badge&logo=peerlist&logoColor=white" title="Peerlist"  alt="Peerlist"/>
 </a>
