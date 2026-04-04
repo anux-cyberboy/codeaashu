@@ -101,7 +101,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
 
-https://img.shields.io/github/stars/:codeaashu
+![GitHub User's stars](https://img.shields.io/github/stars/:codeaashu)
+
 
 
 
