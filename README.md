@@ -73,14 +73,24 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## Latest Banger Articles/Blog
+## 🧠 Raw Thoughts, Unfiltered — Read at Your Own Risk
+
+> Not written to impress. Written to hit.
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s No Fucking Fear Once You Understand The Pattern.](https://medium.com/@warrioraashuu/theres-no-fucking-fear-once-you-understand-the-pattern-5f5513b2a5bb)
-- [The Future of AI Belongs to Bharat.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
-- [Don’t Turn 2026 Into Another Wasted Fucking Year.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
-- [The Big Lie About Your Fucking Competition](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
-- [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
+- 🔥 [There’s No Fucking Fear Once You Understand The Pattern.](https://medium.com/@warrioraashuu/theres-no-fucking-fear-once-you-understand-the-pattern-5f5513b2a5bb)
+- 🇮🇳 [The Future of AI Belongs to Bharat.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
+- ⚠️ [Don’t Turn 2026 Into Another Wasted Fucking Year.](https://medium.com/@warrioraashuu/the-future-of-ai-belongs-to-bharat-beb471c2aaa0)
+- 💣 [The Big Lie About Your Fucking Competition](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
+- 🕵️ [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⚡ Still Curious?
+
+👉 **Click → Read more bangers:**  
+https://medium.com/@warrioraashuu
 
 ---
 
