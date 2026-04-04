@@ -65,41 +65,35 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Let's connect dear! <img src="assets/hi.gif" width="50">
 
+<a href="https://x.com/warrioraashuu"> 
+    <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
+</a>
+<a href="https://www.reddit.com/user/warrioraashuu/"> 
+    <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
+</a>
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://x.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
+<a href="https://peerlist.io/aashuu"> 
+    <img src="https://img.shields.io/badge/Peerlist-00384d?style=for-the-badge&logo=peerlist&logoColor=white" title="Peerlist"  alt="Peerlist"/>
 </a>
-<a href="mailto:hellow.ashutosh@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+<a href="https://medium.com/@warrioraashuu"> 
+    <img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" title="Medium"  alt="Medium"/>
 </a>
-<a href="https://www.instagram.com/warrior_aashuu/"> 
+<a href="https://www.instagram.com/warrioraashuu/"> 
     <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@creativityofaashu"> 
-    <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <a href="https://in.pinterest.com/codeaashu/"> 
     <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
 </a>
-<a href="https://hashnode.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
-</a>
-<a href="https://www.figma.com/@codeaashu"> 
+<a href="https://www.figma.com/@aashuu"> 
     <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
 </a>
-<a href="https://www.fiverr.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" title="Fiverr"  alt="Fiverr"/>
-</a>
-<a href="https://www.reddit.com/user/warrior_aashuu/"> 
-    <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
-</a>
-<a href="https://discord.com/channels/@warrior_aashuu"> 
+<a href="https://discord.com/channels/@warrioraashuu"> 
     <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
-<a href="https://dev.to/codeaashu"> 
-    <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
+<a href="mailto:hellow.ashutosh@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
