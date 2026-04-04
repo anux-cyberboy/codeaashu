@@ -105,7 +105,33 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## What I'm Do <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
+## What I'm Doing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
+
+- **Living in the future** - Learning and building tools to make agentic engineering faster and easy to use for everyone.
+- **Writing Banger Articles** - on Technology, Internet, AI, Future, Unfair Advantage, Psychology, Money, Power, Obsession, Dark Strategy ▪︎ Available on <style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704" target="_blank">Subscribe on LinkedIn</a>
+-
+-   [steipete.me](https://steipete.me)
+- **Rapid prototyping** - Full apps in days, not months
+- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
+
+
 
 #### Web Design & Development | Responsive & Stunning Web Project (Completed - 2023 & Ongoing)
 - **Key Responsibilities:** Designing an GYM, TRAVEL, ECOMMERCE, EDUCATION, HEALTH CARE, HOTEL, FASHION, etc. 
