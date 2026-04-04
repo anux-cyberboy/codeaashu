@@ -40,11 +40,11 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - soon](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - soon](#)** - The Intelligence System for Modern Events.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
-- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before Proof of Work, study Proof of Failure. Backed by $258.4B Burned Capital
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before POW, study POF. Backed by $258.4B Burned Capital
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/safenote.png" /> **[Safenote](https://www.safenote.me/)** - The safest workspace to store and share your private notes & messages!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/colortones.png" /> **[ColorTones](https://colortones.aashuu.tech/)** - The perceptual DNA of color. Transform colors into full palettes effortlessly.
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/antriviewicon.png" /> **[Antriview](https://antriview.systems/)** - Your AI Interviewer That Prepares You Better Than Any Human Can.
-- <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/NextjsAPIDecorators.png" /> **[NextJS API Decorators](https://nextjs-api-decorators.vercel.app/)** - A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
+- <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/NextjsAPIDecorators.png" /> **[NextJS API Decorators](https://nextjs-api-decorators.vercel.app/)** - Collection of clean, typed API routes with built-in validation and request transformation
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/CodingAura.png" /> **[Coding Aura](https://codingaura.vercel.app/)** - Flex Your Coding Journey on Social. Generate. Download. Share.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/GitHubLegacy.png" /> **[GitHub Legacy](https://github-legacy.vercel.app/)** - Transform your GitHub journey into a professional resume in seconds!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/gradiee.svg" /> **[Gradiee](https://gradiee.vercel.app/)** - open-source amazing gradient wallpaper generator.
@@ -131,7 +131,14 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://www.devdisplay.org/profile/codeaashu"> 
     <img src="https://img.shields.io/badge/Devdisplay-00384d?style=for-the-badge&logo=devdisplay&logoColor=white" title="DevDisplay"  alt="DevDisplay"/>
 </a>
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 </p>
+
+---
+
+## Philosophy
+> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle... Always remind yourself `अहमस्मि योधः`
 
 ---
 
@@ -158,6 +165,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </div>
 
 
+
+
+---
 <!-- <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
     <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
 </a> -->
