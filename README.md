@@ -107,36 +107,12 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## What I'm Doing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster and easy to use for everyone.
-- **Writing Banger Articles** - on Technology, Internet, AI, Future, Unfair Advantage, Psychology, Money, Power, Obsession, Dark Strategy ▪︎ Available on <style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704" target="_blank">Subscribe on LinkedIn</a>
--
--   [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
-
-
-
-#### Web Design & Development | Responsive & Stunning Web Project (Completed - 2023 & Ongoing)
-- **Key Responsibilities:** Designing an GYM, TRAVEL, ECOMMERCE, EDUCATION, HEALTH CARE, HOTEL, FASHION, etc. 
-- **Tech Stack:** HTML, CSS, JS, PHP, MySQL, ReactJS, NodeJS, Express, MongoDB, Firebase, Figma, Adobe XD, Photoshop, Illustrator, etc.
-- **Objective:** Responsive web design strategies to ensure your Business website stands out and attracts maximum attention and visually appealing landing page that captivates your audience and that looks great on any device.
+- **Living in the future** - Learning and building software/tools to make agentic engineering, Physical AI, Conversational AI and Web3 faster and easy to use for everyone.
+- **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
+- **Also Available for (full-time or part-time)** — For those who prioritize high-impact outcomes over price.
+- **Rapid prototyping & MVPs** - Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
+- **Writing Banger Articles** - On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
+- **Judged & Mentored 15+ Tech Initiatives** - Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
 
 ---
 
