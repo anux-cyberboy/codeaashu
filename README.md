@@ -141,7 +141,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" /></br>
 
-Holder ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) across projects.
+Holder of ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) Across Projects.
 
 </div>
 
