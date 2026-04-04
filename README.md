@@ -88,6 +88,11 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
+## Philosophy
+> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle... Always remind yourself `अहमस्मि योधः`
+
+---
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
 
@@ -130,15 +135,13 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 <a href="https://www.devdisplay.org/profile/codeaashu"> 
     <img src="https://img.shields.io/badge/Devdisplay-00384d?style=for-the-badge&logo=devdisplay&logoColor=white" title="DevDisplay"  alt="DevDisplay"/>
-</a>
+</a></br>
 
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+
+Holder ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) across projects.
+
 </p>
-
----
-
-## Philosophy
-> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle... Always remind yourself `अहमस्मि योधः`
 
 ---
 
