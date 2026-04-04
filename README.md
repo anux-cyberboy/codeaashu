@@ -118,7 +118,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-<h2 align="center">Dev Legacy!<h2>
+<!-- <h2 align="center">Dev Legacy!<h2>
 <p align="center">
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevPioneerpng.gif" alt="Dev Pioneer" height="200" width="200" /></a>
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevEnhancerpng.gif" alt="Dev Enhancer" height="200" width="200" /></a>
@@ -136,7 +136,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 | <img src="assets/DevPioneerpng.gif"> | <img src="assets/DevEnhancerpng.gif"> | <img src="assets/DevInnovatorpng.gif"> |
 | ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
 
-</div>
+</div> -->
 
 <h3 align="center">📊 Stats of Obsession</h3>
 
