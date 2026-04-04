@@ -114,26 +114,6 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
-</br><h3 align="center">📊 Stats of Obsession</h3>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=aura&utcOffset=8)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="codeaashu" /></p>
-</p>
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=default&utcOffset=5.5)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=default&hide_border=true" />
-</p>
 
 </div> <hr>
 
@@ -159,6 +139,18 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <div align="center">
   <img src="assets/githubgif.gif" width="200" />
 </div>
+
+
+
+<!-- <h3 align="center">📊 Stats of Obsession</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=aura&utcOffset=8)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="codeaashu" /></p>
+</p> -->
 
 
 <!--- <p align="center">
