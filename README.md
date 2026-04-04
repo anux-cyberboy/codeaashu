@@ -62,7 +62,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## What I'm Doing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" /> What I'm Doing
 
 - **Living in the future** — Engineering software and tools to accelerate agentic engineering, physical AI, conversational AI, and Web3, making them faster, simpler, and accessible to everyone.
 - **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
@@ -73,7 +73,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## Latest Banger Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Latest Banger Articles
 
 > ⚠️ The sharpest articles on the internet! Read at your own risk, this will rewire your mind with a banger. You won’t be the same after this.
 
@@ -83,12 +83,12 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - [The Big Lie About Your Fucking Competition](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 - [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 
- **Click <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Read more bangers:**  
+ **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Click Read more bangers:**  
 [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
 
 ---
 
-## Let's connect! <img src="assets/hi.gif" width="50">
+## <img src="assets/hi.gif" width="50"> Let's connect! 
 
 <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
     <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
