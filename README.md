@@ -1,3 +1,5 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&theme=transparent)
+
 <div align="center">
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
