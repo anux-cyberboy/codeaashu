@@ -53,7 +53,6 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Legacy Build
 - <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/LPS.png" /> **[LPS Brands](https://lps-me.com/)** - LPS is a New-Age 360° full-impact agency, building identities, communications & digital experiences for modern brands with measurable impact.
-- 
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/Lightship.jpg" /> **[Lightship](https://lightshiprv.com/)** - Lightship is the first American all-electric recreational vehicle company bringing travel trailers into the electric age.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/MOQO.png" /> **[MOQO](https://moqo.be/)** - MOQO develops brands from a well-thought-out brand strategy, whether in terms of corporate branding, product branding or employer branding.
@@ -63,12 +62,22 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
+## What I'm Doing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
+
+- **Living in the future** — Engineering software and tools to accelerate agentic engineering, physical AI, conversational AI, and Web3, making them faster, simpler, and accessible to everyone.
+- **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
+- **Also Available for (full-time or part-time)** — For those who prioritize high-impact outcomes over price.
+- **Rapid prototyping & MVPs** — Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
+- **Writing Banger Articles** — On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
+- **Judged & Mentored 15+ Tech Initiatives** — Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
+
+---
 
 ## Let's connect! <img src="assets/hi.gif" width="50">
 
 <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
-        <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
-     </a>
+    <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
+</a>
 <a href="https://x.com/warrioraashuu"> 
     <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
@@ -102,17 +111,6 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="mailto:hellow.ashutosh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-
----
-
-## What I'm Doing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
-
-- **Living in the future** - Engineering software and tools to accelerate agentic engineering, physical AI, conversational AI, and Web3 — making them faster, simpler, and accessible to everyone.
-- **Available for contract-based projects** - For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
-- **Also Available for (full-time or part-time)** - For those who prioritize high-impact outcomes over price.
-- **Rapid prototyping & MVPs** - Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
-- **Writing Banger Articles** - On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
-- **Judged & Mentored 15+ Tech Initiatives** - Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
 
 ---
 
