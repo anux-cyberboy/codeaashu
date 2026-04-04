@@ -128,8 +128,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="mailto:hellow.ashutosh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
+<a href="https://www.devdisplay.org/profile/codeaashu"> 
+    <img src="https://img.shields.io/badge/Devdisplay-00384d?style=for-the-badge&logo=devdisplay&logoColor=white" title="DevDisplay"  alt="DevDisplay"/>
 </a>
 </p>
 
@@ -157,6 +157,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
   <img src="assets/githubgif.gif" width="200" />
 </div>
 
+
+<!-- <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
+</a> -->
 
 
 <!-- <h3 align="center">📊 Stats of Obsession</h3>
