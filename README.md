@@ -1,4 +1,44 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&theme=transparent)
+<p align="center">
+
+<!-- Profile Details -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=default">
+</picture>
+
+<!-- Repos per Language -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=default">
+</picture>
+
+<!-- Most Commit Language -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=default">
+</picture>
+
+<!-- Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=default">
+</picture>
+
+<!-- Productive Time -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=github_dark&utcOffset=5.5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=default&utcOffset=5.5">
+</picture>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=github-dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=default&hide_border=true">
+</picture>
+
+</p>
 
 <div align="center">
 <p align="center">
