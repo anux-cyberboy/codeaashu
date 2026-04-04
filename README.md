@@ -94,8 +94,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 </br>
 <p align="center">
-  <img src="assets/hi.gif" width="100" />
-</p>
+  <img src="assets/hi.gif" width="100" /> </br>
+
 
 <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
     <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
@@ -132,7 +132,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 <a href="mailto:hellow.ashutosh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
+</a></p>
 
 ---
 
