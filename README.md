@@ -71,14 +71,14 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://x.com/warrioraashuu"> 
     <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://www.reddit.com/user/warrioraashuu/"> 
-    <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
-</a>
 <a href="https://www.linkedin.com/in/ashutoshkumaraashu/"> 
     <img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"  alt="Linkedin"/>
 </a>
 <a href="https://peerlist.io/aashuu"> 
     <img src="https://img.shields.io/badge/Peerlist-00384d?style=for-the-badge&logo=peerlist&logoColor=white" title="Peerlist"  alt="Peerlist"/>
+</a>
+<a href="https://www.reddit.com/user/warrioraashuu/"> 
+    <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
 </a>
 <a href="https://medium.com/@warrioraashuu"> 
     <img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" title="Medium"  alt="Medium"/>
@@ -94,6 +94,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 <a href="https://discord.com/channels/@warrioraashuu"> 
     <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
+</a>
+<a href="https://t.me/warrioraashuu"> 
+    <img src="https://img.shields.io/badge/Telegram-00384d?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"  alt="Telegram"/>
 </a>
 <a href="mailto:hellow.ashutosh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
