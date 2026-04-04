@@ -101,6 +101,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
 
+https://img.shields.io/github/stars/:codeaashu
+
+
+
 <!--<h2 align="center">Dev Legacy!<h2>
 <p align="center">
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevPioneerpng.gif" alt="Dev Pioneer" height="200" width="200" /></a>
@@ -169,6 +173,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
   <a href="https://www.buymeacoffee.com/codeaashu" target="_blank" rel="noopener noreferrer">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
   </a>
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/WarriorAashuu) 
+
 
 <a href="https://github.com/sponsors/codeaashu" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
