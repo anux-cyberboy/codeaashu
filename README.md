@@ -83,12 +83,16 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - [The Big Lie About Your Fucking Competition](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 - [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 
- **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Click Read more bangers:**  
+ **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Click to read more bangers:**  
 [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
 
 ---
 
-## <img src="assets/hi.gif" width="50"> Let's connect! 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
+
+---
+
+<img src="assets/hi.gif" align="center" width="100"> 
 
 <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
     <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
@@ -125,13 +129,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 <a href="mailto:hellow.ashutosh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a></br>
+</a>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
-
-
-</div> <hr>
-
+---
 
 <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
