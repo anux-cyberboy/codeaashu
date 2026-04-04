@@ -90,9 +90,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
----
 
-<img src="assets/hi.gif" align="center" width="100"> 
+
+</br><img align="center" src="assets/hi.gif" width="100"> 
 
 <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
     <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
