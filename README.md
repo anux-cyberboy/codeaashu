@@ -74,6 +74,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
+<a href="https://www.linkedin.com/in/ashutoshkumaraashu/">
+  <img src="https://shields.io" title="LinkedIn" alt="LinkedIn"/>
+</a>
+
 <a href="https://peerlist.io/aashuu"> 
     <img src="https://img.shields.io/badge/Peerlist-00384d?style=for-the-badge&logo=peerlist&logoColor=white" title="Peerlist"  alt="Peerlist"/>
 </a>
@@ -94,10 +98,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 <a href="mailto:hellow.ashutosh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-<a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
-    <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
-</a><br>
+</a>br>
 
 
 ---
