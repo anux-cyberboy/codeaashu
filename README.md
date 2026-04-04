@@ -53,6 +53,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Legacy Build
 - <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/LPS.png" /> **[LPS Brands](https://lps-me.com/)** - LPS is a New-Age 360° full-impact agency, building identities, communications & digital experiences for modern brands with measurable impact.
+- 
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/UQ.png" /> **[Uniqual ITech](https://uniqualitech.com/)** - Powerhouse That Delivers High Quality IT
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/Lightship.jpg" /> **[Lightship](https://lightshiprv.com/)** - Lightship is the first American all-electric recreational vehicle company bringing travel trailers into the electric age.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/MOQO.png" /> **[MOQO](https://moqo.be/)** - MOQO develops brands from a well-thought-out brand strategy, whether in terms of corporate branding, product branding or employer branding.
@@ -63,7 +64,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ---
 
 
-## Let's connect dear! <img src="assets/hi.gif" width="50">
+## Let's connect! <img src="assets/hi.gif" width="50">
 
 <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
         <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
@@ -103,6 +104,16 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 
 ---
+
+## What I'm Do <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
+
+#### Web Design & Development | Responsive & Stunning Web Project (Completed - 2023 & Ongoing)
+- **Key Responsibilities:** Designing an GYM, TRAVEL, ECOMMERCE, EDUCATION, HEALTH CARE, HOTEL, FASHION, etc. 
+- **Tech Stack:** HTML, CSS, JS, PHP, MySQL, ReactJS, NodeJS, Express, MongoDB, Firebase, Figma, Adobe XD, Photoshop, Illustrator, etc.
+- **Objective:** Responsive web design strategies to ensure your Business website stands out and attracts maximum attention and visually appealing landing page that captivates your audience and that looks great on any device.
+
+---
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
 
