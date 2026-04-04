@@ -107,11 +107,11 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## What I'm Doing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" />
 
-- **Living in the future** - Learning and building software/tools to make agentic engineering, Physical AI, Conversational AI and Web3 faster and easy to use for everyone.
-- **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
-- **Also Available for (full-time or part-time)** — For those who prioritize high-impact outcomes over price.
+- **Living in the future** - Engineering software and tools to accelerate agentic engineering, physical AI, conversational AI, and Web3 — making them faster, simpler, and accessible to everyone.
+- **Available for contract-based projects** - For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
+- **Also Available for (full-time or part-time)** - For those who prioritize high-impact outcomes over price.
 - **Rapid prototyping & MVPs** - Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
-- **Writing Banger Articles** - On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
+- **Writing Banger Articles** - On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
 - **Judged & Mentored 15+ Tech Initiatives** - Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
 
 ---
