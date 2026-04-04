@@ -73,9 +73,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## 🧠 Raw Thoughts, Unfiltered — Read at Your Own Risk
+## Latest Banger Articles
 
-> Not written to impress. Written to hit.
+> ⚠️ The sharpest articles on the internet!Read at your own risk, this will rewire your mind with a banger. You won’t be the same after this.
 
 <!-- BLOG-POST-LIST:START -->
 - 🔥 [There’s No Fucking Fear Once You Understand The Pattern.](https://medium.com/@warrioraashuu/theres-no-fucking-fear-once-you-understand-the-pattern-5f5513b2a5bb)
@@ -85,12 +85,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - 🕵️ [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-### ⚡ Still Curious?
-
 👉 **Click → Read more bangers:**  
-https://medium.com/@warrioraashuu
+[Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
 
 ---
 
