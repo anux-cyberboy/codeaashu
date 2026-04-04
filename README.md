@@ -118,37 +118,25 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-<div align="center" >
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-
-</div>
-
-
-
-<!--<h2 align="center">Dev Legacy!<h2>
+<h2 align="center">Dev Legacy!<h2>
 <p align="center">
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevPioneerpng.gif" alt="Dev Pioneer" height="200" width="200" /></a>
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevEnhancerpng.gif" alt="Dev Enhancer" height="200" width="200" /></a>
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevInnovatorpng.gif" alt="Dev Innovator" height="200" width="200" /></a>
-</p>-->
+</p>
 
-<!-- <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> -->
-	
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> -->
+ <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> 
 
 
-<!--<div align="center">
+<div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /> Dev Legacy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /></h1>
 
 | <img src="assets/DevPioneerpng.gif"> | <img src="assets/DevEnhancerpng.gif"> | <img src="assets/DevInnovatorpng.gif"> |
 | ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
 
-</div>-->
+</div>
 
 <h3 align="center">📊 Stats of Obsession</h3>
 
