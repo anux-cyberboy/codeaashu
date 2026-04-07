@@ -28,10 +28,9 @@ Professionally, an Entrepreneur
   
 `Spend less time reading code, more time building.`
   
-<td align="center">
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
-</td>
-<td>
+
+
 <h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
 <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a></h2>
 </td>
