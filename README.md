@@ -26,7 +26,7 @@ Professionally, an Entrepreneur
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
     <td align="center" valign="top" width="300">
 
-`Spend less time reading code, more time building.`
+Spend less time reading code, more time building.
   
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
 
