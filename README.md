@@ -25,14 +25,13 @@ Professionally, an Entrepreneur
     </td>
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
     <td align="center" valign="top" width="300">
-<h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
+
+`Spend less time reading code, more time building.`
   
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
 
-<h4 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
+<h4 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a><br>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
 <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a></h4>
-
-`Spend less time reading code, more time building.`
 
 </td>
   </tr>
