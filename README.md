@@ -25,9 +25,6 @@ Professionally, an Entrepreneur
     </td>
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
     <td align="center" valign="top" width="300">
-      <div align="center">
-<table>
-<tr>
   
 `Spend less time reading code, more time building.`
   
@@ -37,8 +34,7 @@ Professionally, an Entrepreneur
 <td>
 <h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
 <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a></h2>
-
-    </td>
+</td>
   </tr>
 </table>
 
