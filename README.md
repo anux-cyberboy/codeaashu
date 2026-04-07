@@ -24,7 +24,7 @@ Professionally, an Entrepreneur
       </ul>
     </td>
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
-    <td align="center" valign="top" width="100">
+    <td align="center" valign="top" width="300">
 <h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
 <img src="https://repoxray.devdisplay.org/icon.png" width="80" height="80" alt="RepoXray Logo"/>
 <h4 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br><br>
