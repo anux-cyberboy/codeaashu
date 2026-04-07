@@ -6,6 +6,42 @@ look at you... you found
 <h1 align="center">The glitch in this fucking matrix.</h1>
 </div>
 
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style: none; padding-left: 0;">
+        
+### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
+Professionally, an Entrepreneur
+
+> I solve expensive problems for those who don’t care about the price.
+
+> I design attraction that put wow factor in every business/person.
+  
+> I build dominant software/products through obsession and creative creation.
+
+> I sell urgency that creates a market to buy water in the middle of the sea.
+      </ul>
+    </td>
+    <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
+    <td align="center" valign="top" width="300">
+      <div align="center">
+<table>
+<tr>
+  
+`Spend less time reading code, more time building.`
+  
+<td align="center">
+<img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
+</td>
+<td>
+<h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
+<a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a></h2>
+
+    </td>
+  </tr>
+</table>
+
 ### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
 Professionally, an Entrepreneur
 
