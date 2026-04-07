@@ -25,7 +25,7 @@ Professionally, an Entrepreneur
     </td>
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
     <td align="center" valign="top" width="300">
-<h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a><</h2>
+<h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
   
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
 
